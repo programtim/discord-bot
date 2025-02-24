@@ -22,4 +22,4 @@ async def on_message(message):
         await message.channel.send("\U0001f642")
     else: 
         await message.channel.send("i dont understand")
-client.run("MTMzNjA3OTI3MTk5MDUyNTk2Mg.Gyddu8.Ow4gtGQHFUqtcMn9mqC2Wxe0Gdl1t5nW_Tihl8")
+client.run()
